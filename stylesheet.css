@@ -1,0 +1,36 @@
+body {
+  background-color: #624535;
+}
+
+h1 {
+  font-family: 'Mystery Quest', cursive;
+  font-size: 3em;
+  font-weight: bolder;
+  color: rgb(43, 106, 75);
+  text-align: center;
+  margin-top: 100px;
+}
+#upquote{
+  padding-left: 100%;
+}
+
+#downquote{
+  padding-top: 100%;
+}
+
+#quotebox{
+  color: rgb(43, 106, 75);
+  font-weight:bold;
+  letter-spacing: 2px;
+  font-size: 1em;
+  font-style: italic;
+
+}
+
+footer {
+  position:fixed;
+  bottom: 0;
+  padding-left: 5%;
+  width: 100%
+  margin-top: 20px;
+}
